@@ -1,0 +1,33 @@
+# Python .gitignore
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# Distribution / packaging
+.Python
+env/
+.venv/
+ENV/
+.env/
+*.egg-info/
+*.egg
+
+# Logs
+logs/
+*.log
+
+# Database files
+*.db
+
+# IDE and editor folders
+.vscode/
+.idea/
+
+# Other common files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
